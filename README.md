@@ -11,6 +11,3 @@ Simulation d’un cadenas numérique avec code secret, blocage automatique aprè
 
 
 
-## Exemple
-Entrer le code Secret : 324671
-Cadenas ouvert !
